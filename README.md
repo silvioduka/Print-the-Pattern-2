@@ -50,7 +50,7 @@ and so on.
 
 
 Pattern #4 
-
+"
 ### 
 
 #### 
@@ -63,11 +63,11 @@ Pattern #4
 
 #### 
 
-### 
+### "
 
 
 Pattern #5 
-
+"
 ###### 
 
 ##### 
@@ -80,7 +80,7 @@ Pattern #5
 
 ##### 
 
-###### 
+###### "
 
 As a second challenge, create a program to output the patterns in reverse (from bottom row to top).
 
